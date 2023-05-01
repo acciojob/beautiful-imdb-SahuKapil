@@ -1,9 +1,9 @@
 
 /* Your CSS Code here. */
 .moviePic {
-  height: 400px;
+  height: 300px;
   width: 300px;
-  opacity: 0.8;
+  opacity: .9;
 }
 
 .movieDetail {
